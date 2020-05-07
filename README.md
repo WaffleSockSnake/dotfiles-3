@@ -6,6 +6,7 @@
 
 <p align="center">Made with :heart: in the ~</p>
 
+[ᵍᵃˡˡᵉʳʸ]()
 <img src="https://i.ibb.co/gm3rtmv/preview-openbox.jpg" alt="Preview Openbox" align="left" width="36%">
 
 ### Hi there! Thanks for visiting!
@@ -17,7 +18,7 @@ Here are some details about my linux environment:
 - **WM**                          : Openbox, i3-gaps
 - **Terminal**                    : URxvt
 - **Icons**                       : My [Papirus-Custom](https://drive.google.com/open?id=1xyqdcoeo_UghXf8syV7oYpAKvotL6ZYc)
-- **Openbox & GTK Theme**         : [Floundy-MIxQ](/.themes/Floundy-MIxQ)
+- **Openbox & GTK Theme**         : [MxQ, Blabla, Floundy](/.themes/)
 - **Openbox Menu**                : [obmenu-generator](https://github.com/trizen/obmenu-generator)
 - **Compositor**                  : [Ibhagwan Picom Fork](https://github.com/ibhagwan/picom)
 - **Panel / Bar**                 : Tint2 & [Polybar](https://github.com/polybar/polybar)
