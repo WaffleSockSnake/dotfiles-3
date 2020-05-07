@@ -65,7 +65,7 @@ Here are some details about my linux environment:
 | Graphic Editor       | GIMP                                                                                                 |
 | CLI System Monitor   | htop                                                                                                 |
 
-## Keybindings - Mousebindings [ʰᵉʳᵉ](https://github.com/owl4ce/dotfiles/wiki/%E1%B4%8B%E1%B4%87%CA%8F%CA%99%C9%AA%C9%B4%E1%B4%85%C9%AA%C9%B4%C9%A2%EA%9C%B1-&-%E1%B4%8D%E1%B4%8F%E1%B4%9C%EA%9C%B1%E1%B4%87%CA%99%C9%AA%C9%B4%E1%B4%85%C9%AA%C9%B4%C9%A2%EA%9C%B1)
+## Keybindings - Mousebindings [ʷⁱᵏⁱ](https://github.com/owl4ce/dotfiles/wiki/%E1%B4%8B%E1%B4%87%CA%8F%CA%99%C9%AA%C9%B4%E1%B4%85%C9%AA%C9%B4%C9%A2%EA%9C%B1-&-%E1%B4%8D%E1%B4%8F%E1%B4%9C%EA%9C%B1%E1%B4%87%CA%99%C9%AA%C9%B4%E1%B4%85%C9%AA%C9%B4%C9%A2%EA%9C%B1)
 
 ## Credits
 > Because they have shared their knowledge by explaining and sharing creative desktop.
