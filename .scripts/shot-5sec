@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+# Screenshot 5s with notification
+# Delay start
+sleep .5s
+
+# 3s before capture
+sleep 3s && notify-send -i deepin-screenshot -u low "Screenshot" "Taking shot in 5.. 4.. 3.. 2.." &
+
+# Take screenshot
+scrot -d 5 -e 'mv $f ~/Pictures/'
+
+# Completions
+sleep 1s && notify-send -i deepin-screenshot -u low "Screenshot" "Saved in\n<u>`pwd`/Pictures/</u>"

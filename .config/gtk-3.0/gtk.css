@@ -1,0 +1,11 @@
+/** Thunar Custom
+    --------------------------------------------------------
+    https://github.com/owl4ce/dotfiles **/
+
+.thunar .sidebar {
+    background-image:url("sidebar.png");
+}
+
+.thunar .sidebar .view:not(:selected) {
+    color: white;
+}

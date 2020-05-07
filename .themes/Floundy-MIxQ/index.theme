@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Floundy
+Comment=A Flat Material Design theme made by OWL4CE with OOMOX
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Floundy
+IconTheme=Adwaita
+CursorTheme=Adwaita

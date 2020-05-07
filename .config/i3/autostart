@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+#
+# Add ' & ' symbol on the bottom of the command for faster load (background job)
+# ---
+
+# Panel/Bar
+polybar -r i3 &
+
+# Background Handler
+nitrogen --set-zoom-fill --save ~/.wallpaper/night-city.jpg
+
+# Compositor
+picom --config ~/.config/i3/picom.conf -b
+
+# Notification
+dunst  &
+
+# Policy Kit
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+
+# Lock Screen Handler
+xss-lock -- /usr/bin/slimlock &
+
+# Power Manager
+xfce4-power-manager &
+
+# Tray/Applets
+clipit &
+#volumeicon &
+#nm-applet &
+#blueman-applet &
+
+# Apps & Others (ex:mpd)
+mpd
