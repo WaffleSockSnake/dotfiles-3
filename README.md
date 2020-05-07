@@ -31,7 +31,7 @@ Here are some details about my linux environment:
 2. Using normal users, for brightnessctl requires user privileges to be a superuser without the sudo command but using [this](https://unix.stackexchange.com/questions/79692/running-program-as-root-without-using-sudo-with-normal-user-account) or [udev rules](https://wiki.archlinux.org/index.php/backlight).
 3. The QT theme is synchronized with the GTK Theme. Read [this](https://wiki.archlinux.org/index.php/Qt#GTK_and_Qt) for guide.
 4. Some Polybar modules may not work for example WiFi network interface is _wlan0_ you might have to change it if it's different in _~/.config/polybar/config_.
-5. URxvt extension uses [urxvt-perls](https://github.com/muennich/urxvt-perls) with **xclip** for copy-paste (Alt-C | Alt-V) and [Tabbedex](https://github.com/mina86/urxvt-tabbedex) for tabs in the terminal (Ctrl-Shift-T | Ctrl-Shift-W | Ctrl-PageUp | Ctrl-PageDown).
+5. URxvt extension uses [urxvt-perls](https://github.com/muennich/urxvt-perls) with **xclip** for copy-paste (Alt-C | Alt-V) and [tabbedex](https://github.com/mina86/urxvt-tabbedex) for tabs in the terminal (Ctrl-Shift-T | Ctrl-Shift-W | Ctrl-PageUp | Ctrl-PageDown).
 6. For icons theme I recommend using my [Papirus-Custom](https://drive.google.com/open?id=1xyqdcoeo_UghXf8syV7oYpAKvotL6ZYc) and installing it on _/usr/share/icons/_ for full compatibility like the icons on dunst, etc.
 7. After installing the font you need to refresh the font cache using **fc-cache -r**.
 8. In my screenshot there is a display to test colors using [Color Toys](/.color-toys).
