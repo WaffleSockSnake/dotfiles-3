@@ -37,7 +37,7 @@ Here are some details about my linux environment:
 6. For icons theme I recommend using my [Papirus-Custom](https://drive.google.com/open?id=1xyqdcoeo_UghXf8syV7oYpAKvotL6ZYc) and installing it on _/usr/share/icons/_ for full compatibility like the icons on dunst, etc.
 7. After installing the font you need to refresh the font cache using **fc-cache -r**.
 8. In my screenshot there is a display to test colors using [Color Toys](/.color-toys).
-9. To run ncmpcpp with album art and ncmpcpp with album art visualizer, just run it in the app launcher like rofi because I have created a desktop shortcut in _~/.config/local/share/applications/_.
+9. To run ncmpcpp with album art and ncmpcpp with album art visualizer, just run it in the app launcher like rofi because I have created a desktop shortcut in _~/.local/share/applications/_.
 10. To get the appropriate album art size for ncmpcpp, it is recommended that _cover.jpg_ has a ratio of 1:1 (300px+).
 
 ## Environment Details
