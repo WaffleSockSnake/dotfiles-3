@@ -33,7 +33,7 @@ Here are some details about my linux environment:
 4. Some Polybar modules may not work for example WiFi network interface is _wlan0_ you might have to change it if it's different in _~/.config/polybar/config_.
 5. URxvt extension uses [urxvt-perls](https://github.com/muennich/urxvt-perls) with **xclip** for copy-paste (Alt-C | Alt-V) and [Tabbedex](https://github.com/mina86/urxvt-tabbedex) for tabs in the terminal (Ctrl-Shift-T | Ctrl-Shift-W | Ctrl-PageUp | Ctrl-PageDown).
 6. For icons theme I recommend using my [Papirus-Custom](https://drive.google.com/open?id=1xyqdcoeo_UghXf8syV7oYpAKvotL6ZYc) and installing it on _/usr/share/icons/_ for full compatibility like the icons on dunst, etc.
-7. After installing the font you need to refresh the font cache using _fc-cache -r_.
+7. After installing the font you need to refresh the font cache using **fc-cache -r**.
 8. In my screenshot there is a display to test colors using [Color Toys](/.color-toys).
 9. To run ncmpcpp with album art and ncmpcpp with album art visualizer, just run it in the app launcher like rofi because I have created a desktop shortcut in _~/.config/local/share/applications/_.
 10. To get the appropriate album art size for ncmpcpp, it is recommended that _cover.jpg_ has a ratio of 1:1 (300px+).
@@ -65,7 +65,7 @@ Here are some details about my linux environment:
 | Graphic Editor       | GIMP                                                                                                 |
 | CLI System Monitor   | htop                                                                                                 |
 
-## [Keybindings - Mousebindings](https://github.com/owl4ce/dotfiles/wiki/%E1%B4%8B%E1%B4%87%CA%8F%CA%99%C9%AA%C9%B4%E1%B4%85%C9%AA%C9%B4%C9%A2%EA%9C%B1---%E1%B4%8D%E1%B4%8F%E1%B4%9C%EA%9C%B1%E1%B4%87%CA%99%C9%AA%C9%B4%E1%B4%85%C9%AA%C9%B4%C9%A2%EA%9C%B1)
+## Keybindings - Mousebindings [ʰᵉʳᵉ](https://github.com/owl4ce/dotfiles/wiki/%E1%B4%8B%E1%B4%87%CA%8F%CA%99%C9%AA%C9%B4%E1%B4%85%C9%AA%C9%B4%C9%A2%EA%9C%B1-&-%E1%B4%8D%E1%B4%8F%E1%B4%9C%EA%9C%B1%E1%B4%87%CA%99%C9%AA%C9%B4%E1%B4%85%C9%AA%C9%B4%C9%A2%EA%9C%B1)
 
 ## Credits
 > Because they have shared their knowledge by explaining and sharing creative desktop.
