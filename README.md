@@ -68,8 +68,7 @@ Here are some details about my linux environment:
 | CLI System Monitor   | htop                                                                                                 |
 
 ## Credits
-> Because they have shared their knowledge by explaining and sharing creative desktop.
-- [Adhi Pambudhi](https://github.com/addy-dclxvi)
+- [Adhi Pambudi](https://github.com/addy-dclxvi)
 - [BanditHijo](https://github.com/bandithijo)
 - [Fikri Omar](https://github.com/fikriomar16)
 - [Reorr](https://github.com/reorr)
