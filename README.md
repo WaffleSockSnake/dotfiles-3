@@ -7,6 +7,7 @@
 <p align="center">Made with :heart: in the ~</p>
 
 [ᵍᵃˡˡᵉʳʸ]()
+
 <img src="https://i.ibb.co/gm3rtmv/preview-openbox.jpg" alt="Preview Openbox" align="left" width="36%">
 
 ### Hi there! Thanks for visiting!
