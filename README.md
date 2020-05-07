@@ -1,6 +1,6 @@
 <p align="center">
     <a name="top" href="https://github.com/owl4ce/dotfiles">
-        <img width="50%" src="https://repository-images.githubusercontent.com/253780475/f4d2a000-9002-11ea-80e5-7f37b0bdb650">
+        <img width="50%" src="https://repository-images.githubusercontent.com/253780475/9e0daa80-9084-11ea-8120-ee2c1da8441f">
     </a>
 </p>
 
