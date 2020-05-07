@@ -81,4 +81,4 @@ Here are some details about my linux environment:
 > Art by [Ilya Kushinov](https://www.artstation.com/kuvshinov_ilya)
 
 ## License
-Licensed under the GPL - see the [𝙻𝙸𝙲𝙴𝙽𝚂𝙴](LICENSE) file for details.
+Licensed under the GPL - see the [LICENSE](LICENSE) file for details.
