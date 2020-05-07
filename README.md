@@ -41,10 +41,10 @@ Here are some details about my linux environment:
 10. To get the appropriate album art size for ncmpcpp, it is recommended that _cover.jpg_ has a ratio of 1:1 (300px+).
 
 ## Environment Details
-| Items/Components     | Values/Dependencies                                                                                   |
+| Items/Components     | Values/Dependencies                                                                                  |
 |----------------------|------------------------------------------------------------------------------------------------------|
 | Shell                | ZSH with [Oh-My-ZSH](https://github.com/ohmyzsh/ohmyzsh) and my [custom theme](/.oh-my-zsh/themes)   |
-| DM & Lockscreen      | SLiM with my [custom theme](./Others/SLiM)                                                           |
+| DM & Lockscreen      | SLiM with my [custom theme](./Others/Seasons)                                                        |
 | Authentication Agent | polkit-gnome-authentication-agent-1                                                                  |
 | Power Manager        | xfce4-power-manager                                                                                  |
 | Sessions Auto Locker | xss-lock                                                                                             |
